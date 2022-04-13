@@ -2,19 +2,19 @@
 
 Laundry
 <br>Admin
-  <br>  UI :
+  <br>UI :
   <br>Form Login :
-  Form Promo :
-  Tabel Pemesan :
-  Back-End :
+  <br>Form Promo :
+  <br>Tabel Pemesan :
+  <br>Back-End :
 
-User 
-  UI :
-  Form Login :
-  Form Data Diri :
-  Tabel List Promo :
-  Form Pemesanan :
-  Bayar :
-  Back-End :
+<br>User 
+  <br>UI :
+  <br>Form Login :
+  <br>Form Data Diri :
+  <br>Tabel List Promo :
+  <br>Form Pemesanan :
+  <br>Bayar :
+  <br>Back-End :
   
-Database : 
+<br>Database : 
