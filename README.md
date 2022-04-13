@@ -2,7 +2,7 @@
 
 Laundry
 <br>Admin
-  <br>\tUI :
+  <br>  UI :
   <br>Form Login :
   Form Promo :
   Tabel Pemesan :
